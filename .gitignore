@@ -1,2 +1,13 @@
-.idea/workspace.xml
-.idea/tasks.xml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.idea/
+.DS_Store
+/build
+.idea
+*.iml
+obj/
+app/proguard*.txt
+*.pyc
+infer-out/
