@@ -1,1 +1,0 @@
-# zxing-qr-nano

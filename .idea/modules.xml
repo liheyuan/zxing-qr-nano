@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/src/main/main.iml" filepath="$PROJECT_DIR$/api/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/src/main/main1.iml" filepath="$PROJECT_DIR$/shared/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/webservice/src/main/main2.iml" filepath="$PROJECT_DIR$/services/webservice/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/src/main/java/org/org.iml" filepath="$PROJECT_DIR$/api/src/main/java/org/org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/webservice/src/test/test.iml" filepath="$PROJECT_DIR$/services/webservice/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/webservice/webservice.iml" filepath="$PROJECT_DIR$/services/webservice/webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-qr-nano.iml" filepath="$PROJECT_DIR$/zxing-qr-nano.iml" />
+    </modules>
+  </component>
+</project>
