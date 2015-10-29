@@ -1,1 +1,1 @@
-include ':app', ':qr-nano-core'
+include ':app', ':zxing-qr-nano-core'
